@@ -6,8 +6,7 @@ This example Excel workbook analyzes over 1000 sample projects from Crowdfunding
 Highlights:
 -------
 
-* Use conditional formatting to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
-
+* Use conditional formatting to fill each cell in the Percent Funded column according to a three-color scale. The scale starts at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
 * Create a new column called Average Donation that uses a formula to find how much each project backer paid on average.
 * Create two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
 * Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
