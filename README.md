@@ -1,7 +1,7 @@
 Excel Example
 -------
 
-This example workbook demonstrates some of my proficiency with Exce by analyzing over 1000 sample projects from Crowdfunding platforms like Kickstarter and Indiegogo, using Excel formulas, charts, and pivot tables.
+This example workbook demonstrates some of my proficiency with Excel by analyzing over 1000 sample projects from Crowdfunding platforms like Kickstarter and Indiegogo, using Excel formulas, charts, and pivot tables.
 
 Highlights:
 -------
