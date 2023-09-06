@@ -1,6 +1,3 @@
-**Excel**
--------
-
 This example Excel workbook analyzes over 1000 sample projects from Crowdfunding platforms like Kickstarter and Indiegogo. 
 
 Highlights:
