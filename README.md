@@ -18,13 +18,9 @@ Highlights:
 
 
 Use Excel to evaluate the following values for successful campaigns:
--------
 * The mean number of backers
 * The median number of backers
 * The minimum number of backers
 * The maximum number of backers
 * The variance of the number of backers
 * The standard deviation of the number of backers
--------
-That's it
-
